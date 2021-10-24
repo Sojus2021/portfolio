@@ -25,15 +25,9 @@ body {
 	background-color: #ddd;
 	color: black;
 }
-.topnav a.active {
-	background-color: #04aa6d;
-	color: white;
-}
-.topnav .icon {
-	display: none;
-}
+
 .mask-layer {
-	height: 29vh;
+	height: 28vh;
 	width: 25vh;
 	background-color: rgba(0, 0, 0, 0.5);
 }
@@ -64,7 +58,6 @@ footer {
 	background-color: rgb(218, 159, 33);
 	min-height: 6vh;
 	font: 17px sans-serif;
-	/* text-align: center; */
 	color: darkslateblue;
 }
 
