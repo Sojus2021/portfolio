@@ -27,8 +27,8 @@ body {
 }
 
 .mask-layer {
-	height: 28vh;
-	width: 25vh;
+	height: 65vh;
+	width: 19vh;
 	background-color: rgba(0, 0, 0, 0.5);
 }
 .text-container {
@@ -46,6 +46,28 @@ button {
 	margin-left: 0.5px;
 	border: auto;
 	padding-right: 35px;
+	padding-left: 10px;
+	font: 17px sans-serif;
+	text-align: left;
+	width: 80px;
+	height: 92px;
+	overflow: scroll;
+}
+.scroll-box2 {
+	margin-left: 0.5px;
+	border: auto;
+	padding-right: 35px;
+	padding-left: 1px;
+	font: 17px sans-serif;
+	text-align: left;
+	width: 80px;
+	height: 92px;
+	overflow: scroll;
+}
+.scroll-box3 {
+	margin-left: 0.5px;
+	border: auto;
+	padding-right: 35px;
 	padding-left: 1px;
 	font: 17px sans-serif;
 	text-align: left;
@@ -57,8 +79,10 @@ button {
 footer {
 	background-color: rgb(218, 159, 33);
 	min-height: 6vh;
-	font: 17px sans-serif;
-	color: darkslateblue;
+	font: 20px sans-serif;
+	text-align: center;
+	padding: 14px 5px;
+	color: darkred;
 }
 
 b {
